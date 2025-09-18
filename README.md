@@ -43,7 +43,7 @@ It combines a trained **Convolutional Neural Network (CNN)** for disease detecti
 
 | Flask Server                 | Unity Visualization        | AI Prediction                        |
 | ---------------------------- | -------------------------- | ------------------------------------ |
-| ![Server](https://github.com/pranjals07/DiagnosAR/blob/assets/server.png) | ![Unity](https://github.com/pranjals07/DiagnosAR/blob/assets/unity.png) | ![Prediction]((https://github.com/pranjals07/DiagnosAR/blob/assets/prediction.png) |
+| ![Server](https://github.com/pranjals07/DiagnosAR/blob/assets/server.png) | ![Unity](https://github.com/pranjals07/DiagnosAR/blob/assets/unity.png) | ![Prediction](https://github.com/pranjals07/DiagnosAR/blob/assets/prediction.png) |
 
 *(Replace with actual screenshots from your repo)*
 
