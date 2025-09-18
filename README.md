@@ -43,7 +43,9 @@ It combines a trained **Convolutional Neural Network (CNN)** for disease detecti
 
 | Flask Server                 | Unity Visualization        | AI Prediction                        |
 | ---------------------------- | -------------------------- | ------------------------------------ |
-| ![Server](assets/server.png) | ![Unity](assets/unity.png) | ![Prediction](assets/prediction.png) |
+| ![Server](https://github.com/pranjals07/DiagnosAR/blob/assets/server.png) | ![Unity](https://github.com/pranjals07/DiagnosAR/blob/assets/unity.png) | ![Prediction](https://github.com/pranjals07/DiagnosAR/blob/assets/prediction.png) |
+
+
 
 ---
 
@@ -69,27 +71,6 @@ Run the Flask server:
 ```bash
 python server.py
 ```
-Python Backend Setup
-
-If using pip:
-
-```bash
-pip install -r requirements.txt
-```
-
-If using conda:
-
-```bash
-conda env create -f environment.yml
-conda activate xray-ar-env
-```
-Unity Setup
-
-Open the project in Unity 6000.1.6f1 (Unity 6).
-
-Make sure AR Foundation and ARCore/ARKit XR Plugins are installed via Package Manager.
-
-Build for Android/iOS as required.
 
 ### 3. Unity Frontend
 
@@ -113,7 +94,7 @@ Main packages:
 
 Unity:
 
-* Tested on **Unity 6000.1.6f1 (Unity 6)**
+* Tested on **Unity 6000.1.6f1**
 * Requires **AR Foundation package**
 
 ---
