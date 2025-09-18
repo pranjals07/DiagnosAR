@@ -45,7 +45,7 @@ It combines a trained **Convolutional Neural Network (CNN)** for disease detecti
 | ---------------------------- | -------------------------- | ------------------------------------ |
 | ![Server](https://github.com/pranjals07/DiagnosAR/blob/assets/server.png) | ![Unity](https://github.com/pranjals07/DiagnosAR/blob/assets/unity.png) | ![Prediction](https://github.com/pranjals07/DiagnosAR/blob/assets/prediction.png) |
 
-*(Replace with actual screenshots from your repo)*
+
 
 ---
 
