@@ -1,5 +1,4 @@
 # DiagnosAR
-# AI-Powered X-ray Visualization using Augmented Reality
 
 This project integrates **AI-based chest X-ray diagnosis** with a **Unity-powered AR visualization tool**.
 It combines a trained **Convolutional Neural Network (CNN)** for disease detection with an **interactive Unity interface**, allowing medical professionals and students to view diagnostic results in real time.
