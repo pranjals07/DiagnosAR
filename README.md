@@ -45,8 +45,6 @@ It combines a trained **Convolutional Neural Network (CNN)** for disease detecti
 | ---------------------------- | -------------------------- | ------------------------------------ |
 | ![Server](assets/server.png) | ![Unity](assets/unity.png) | ![Prediction](assets/prediction.png) |
 
-*(Replace with actual screenshots from your repo)*
-
 ---
 
 ## ⚙️ Setup & Installation
