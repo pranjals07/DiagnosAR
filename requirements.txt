@@ -1,0 +1,17 @@
+name: xray_model_env
+channels:
+
+* defaults
+* conda-forge
+  dependencies:
+* python=3.9
+* numpy=1.23.5
+* pandas=2.0.3
+* pillow=9.5.0
+* opencv
+* pip
+* pip:
+
+  * tensorflow==2.12.0
+  * flask==2.3.2
+  * gunicorn==20.1.0
