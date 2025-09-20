@@ -95,7 +95,7 @@ Main packages:
 Unity:
 
 * Tested on **Unity 6000.1.6f1**
-* Requires **AR Foundation package**
+* Requires **AR Foundation package** for future enhancements
 
 ---
 
@@ -122,8 +122,8 @@ Unity:
 
 ## 📑 Submissions
 
-* 📹 [Demo Video](#) *(add YouTube/Drive link)*
-* 📄 [Project Report](RadAI_Innovators.pdf) *(supplementary file)*
+* 📹 [Demo Video](https://drive.google.com/file/d/1WEBE6U6Ais-NFK0oUL-RtlJlF-IDDh3O/view?usp=sharing) 
+* 📄 [Project Report](RadAI_Innovators.pdf) 
 
 ---
 
