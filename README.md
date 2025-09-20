@@ -126,6 +126,8 @@ Unity:
 * 📄 [Project Report](RadAI_Innovators.pdf) 
 
 ---
+## Project .dll file
+* [Project .dll File](https://drive.google.com/file/d/1WEBE6U6Ais-NFK0oUL-RtlJlF-IDDh3O/view?usp=sharing)
 
 ## 👨‍💻 Author
 
@@ -133,16 +135,6 @@ Unity:
 
 ---
 
-## 🏷️ Hackathon Submission
-
-Tag your final commit as:
-
-```bash
-git tag SamsungPRISMGenAIHackathon2025
-git push origin SamsungPRISMGenAIHackathon2025
-```
-
----
 
 ## 📚 References
 
